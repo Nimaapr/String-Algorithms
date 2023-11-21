@@ -12,7 +12,6 @@ This folder contains two different Python implementations for the Palindrome Par
 [Read more](Palindrome-Partitioning-I/README.md)
 
 ### Future Projects
-- Palindrome Partitioning II
 - Edit Distance
 
 ## Getting Started
