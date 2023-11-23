@@ -11,8 +11,11 @@ This project includes a Python script to identify the first non-repeating charac
 This folder contains two different Python implementations for the Palindrome Partitioning I problem: a backtracking solution and an optimized dynamic programming approach.  
 [Read more](Palindrome-Partitioning-I/README.md)
 
-### Future Projects
-- Edit Distance
+### 3. [Edit Distance Algorithms](Edit-Distance/)
+The Edit Distance project provides two implementations of the Edit Distance (Levenshtein distance) algorithm: a standard dynamic programming approach and a memory-efficient version.  
+[Read more](Edit-Distance/README.md)
+
+
 
 ## Getting Started
 To use the scripts in this repository:
