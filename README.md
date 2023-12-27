@@ -1,5 +1,5 @@
 # String-Algorithms
-Solutions to various string manipulation problems, including finding the first non-repeating character, edit distance, and palindrome partitioning
+Solutions to various string manipulation problems, including finding the first non-repeating character, edit distance, palindrome partitioning, and distinct subsequences.
 
 ## Projects in this Repository
 
@@ -15,6 +15,11 @@ This folder contains two different Python implementations for the Palindrome Par
 The Edit Distance project provides two implementations of the Edit Distance (Levenshtein distance) algorithm: a standard dynamic programming approach and a memory-efficient version.  
 [Read more](Edit-Distance/README.md)
 
+### 4. [Distinct Subsequences](Distinct-Subsequences/)
+The Distinct Subsequences project offers two Python approaches for finding the number of distinct subsequences of one string that match another. It includes a standard dynamic programming approach and a memory-efficient variant.  
+- **Standard Approach**: Utilizes a 2D matrix for dynamic programming (Time Complexity: O(mn), Space Complexity: O(mn)).
+- **Memory-Efficient Approach**: Optimizes space using two 1D arrays (Time Complexity: O(mn), Space Complexity: O(n)).  
+[Read more](Distinct%20Subsequences/README.md)
 
 
 ## Getting Started
